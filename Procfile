@@ -1,1 +1,1 @@
-web: gunicorn capstoneproject.wsgi
+web:gunicorn capstoneproject.wsgi
